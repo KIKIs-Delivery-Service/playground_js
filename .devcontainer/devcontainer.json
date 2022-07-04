@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "service": "nodejs",
+  "workspaceFolder": "/nodejs",
+  "dockerComposeFile": "../docker-compose.yml",
+  "settings": {
+    "editor.formatOnSave": true
+  },
+  "extensions": [
+    "foxundermoon.shell-format",
+    "ritwickdey.LiveServer"
+  ],
+  "shutdownAction": "stopCompose"
+}
