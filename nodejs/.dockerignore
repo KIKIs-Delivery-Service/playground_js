@@ -1,3 +1,4 @@
+.vscode
 .dockerignore
 .devcontainer
 docker-compose.yml
